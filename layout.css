@@ -1,0 +1,124 @@
+*{
+    box-sizing: border-box;
+}
+
+p{
+    text-align: center;
+}
+
+nav ul p a {
+    color: #000000;
+    font-size: xx-large;
+    
+}
+
+.container{
+    width: 1204px;
+    margin: 0 auto;
+    display: flex;
+    
+}
+
+.flex{
+    /*justify-content: center; */
+   flex-wrap: wrap;
+}
+
+.bo{
+    background-color:powderblue;
+}
+
+.um{
+    width: 1200px;
+    height: 185px;
+    text-align: center;
+    background-color: peachpuff;
+    font-family: cursive;
+    font-size: larger;
+    padding: 25px;
+}
+
+.dois{
+    width: 1200px;
+    height: 70px;
+    background-color: moccasin;
+    text-align: center;
+    font-family: cursive;
+}
+
+
+.tres{
+    width: 280px; 
+    height: 1000px;
+    background-color: PaleGoldenrod;
+    text-align: inherit;
+    font-family: cursive;
+    
+}
+
+.quatro{
+    width: 920px; 
+    height: 1000px;
+    background-color:Thistle;
+    text-align: center;
+    font-family: cursive;
+
+}
+
+.cinco{
+    width: 1200px; 
+    height: 200px;
+    background-color:rgb(157, 241, 101);
+    text-align: center;
+    font-family: cursive;
+}
+
+
+
+
+.pp{
+    font-family: cursive;
+    text-align: justify;
+    padding: 20px;
+}
+.ppp{
+    font-family: cursive;
+    text-align: justify;
+    padding: 20px;
+}
+
+
+#a{
+    display: block;
+    position: center;
+    left: 90px;
+    top: 500px;
+    width: 280px;
+    height: 250px;
+}
+
+#b{
+    display: block;
+    position: center;
+    left: 90px;
+    top: 500px;
+    width: 280px;
+    height: 250px;
+    }  
+
+#c{
+    display: block;
+    position: center;
+    left: 90px;
+    top: 500px;
+    width: 280px;
+    height: 250px;
+    }
+
+#logosenac{
+    width: 92px;
+    height: 53.5px;
+}
+
+
+
